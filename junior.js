@@ -4,6 +4,6 @@ function Hello() {
 }
 
 function despedir() {
-    var mensaje = "Goodbye Junior Developer";
+    var mensaje = "Goodbye";
     console.log(mensaje);
 }
