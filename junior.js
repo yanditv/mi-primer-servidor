@@ -1,3 +1,4 @@
 function Hello() {
-    console.log("Hello Junior Developer");
+    var mensaje = "Hello Junior Developer";
+    console.log(mensaje);
 }
